@@ -270,6 +270,19 @@ form input {
     font-size: .8rem;
 }
 
+.symp{
+    width: 60%;
+    margin: 1rem 3rem;
+}
+
+#symp h3{
+    font-size: 2rem;
+}
+
+#symp h3, .cause h3{
+    margin: 1rem 0;
+}
+
 
 
 @media screen and (max-width: 768px){
@@ -382,3 +395,5 @@ form input {
         margin-bottom: 0;
     }
 }
+
+
