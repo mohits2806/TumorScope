@@ -1,2 +1,2 @@
-# furious_duo
- this is a github repository created for storing files of our project at SVERI Hackathon
+# TumorScope
+TumorScope is a web-based application that leverages AI to detect and classify brain tumors from MRI images. Using a deep learning model, the application accurately identifies tumor regions and provides insights to assist medical professionals in diagnosis and treatment planning. With its intuitive interface and advanced image processing capabilities, TumorScope streamlines the analysis of brain scans, enabling faster and more accurate detection of tumors.
